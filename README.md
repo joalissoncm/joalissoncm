@@ -1,6 +1,7 @@
 ### Hello World 👋
 
-:books: I'm graduating in Biotechnology and passionate about technology. I have been working with development and coding for about 1 year, precisely with mobile development for Android :calling: 
+:books: I'm graduating in Biotechnology and passionate about technology. I have been working with development
+and coding for about 1 year, precisely with mobile development for Android :calling: 
 
 :computer: I'm studying Data & IA
 

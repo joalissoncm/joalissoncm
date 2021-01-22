@@ -4,6 +4,7 @@
 
   
 :books: I'm graduating in Biotechnology
+:computer: I'm studying Data & IA
 <!--
 **JoalissonCM/joalissoncm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

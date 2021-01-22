@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-### My skills: Kotlin
+### My skills: Kotlin https://img.shields.io/badge/-Kotlin-orange
 <!--
 **JoalissonCM/joalissoncm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

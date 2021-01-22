@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-:books: I'm graduating in Biotechnology
+:books: I'm graduating in Biotechnology and passionate about technology. I have been working with development and coding for about 1 year.
 
 :computer: I'm studying Data & IA
 

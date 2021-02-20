@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-:books: Me chamo Joalisson Moreira e sou estudante de Biotecnologia na Universidade Federal da Paraíba (UFPB). Tenho trabalhado e desenvolvido
-precisamente usando Python para aplicações biotecnológicas.
+:books: Me chamo Joalisson Moreira e sou estudante de Biotecnologia na Universidade Federal da Paraíba (UFPB).
+Tenho trabalhado e desenvolvido precisamente usando Python para aplicações biotecnológicas.
 
 I'm graduating in Biotechnology and passionate about technology. I have been working with development
 and coding, precisely with Python for biotechnological applications. :computer:

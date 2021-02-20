@@ -4,6 +4,8 @@
 Tenho trabalhado e desenvolvido usando Python para aplicações biotecnológicas. :computer:
 Fique à vontade para olhar alguns dos meus trabalhos abaixo.
 
+About me:
+
 I'm graduating in Biotechnology and passionate about technology. I have been working with development
 and coding, precisely with Python for biotechnological applications. :computer:
 Make sure to check some of my work below.

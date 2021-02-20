@@ -6,7 +6,7 @@ Fique à vontade para olhar alguns dos meus trabalhos abaixo.
 
 About me:
 
-I'm graduating in Biotechnology and passionate about technology. I have been working with development
+My name is Joalisson Moreira. I'm undergradute graduating in Biotechnology and passionate about technology. I have been working with development
 and coding, precisely with Python for biotechnological applications. I'm an enthusiast of Data Science, Machine Learning, Innovation and Mobile Development
 Make sure to check some of my work below.
 ### My skills:

@@ -7,8 +7,8 @@ Fique à vontade para olhar alguns dos meus trabalhos abaixo.
 
 About me:
 
-My name is Joalisson Moreira. I'm undergraduate in Biotechnology and passionate about technology. I have been working with development
-and coding, with Python for biotechnological precisely searching for health applications. I'm an enthusiast of Data Science, Machine Learning, Innovation and Mobile Development.
+:books: My name is Joalisson Moreira. I'm undergraduate in Biotechnology and passionate about technology. I have been working with development
+and coding, with Python precisely searching for biotechnological applications in health. I'm an enthusiast of Data Science, Machine Learning, Innovation and Mobile Development.
 
 Make sure to check some of my work below.
 ### My skills:

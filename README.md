@@ -1,7 +1,7 @@
 ### Joalisson Moreira 👋
 
 :books: Me chamo Joalisson Moreira e sou estudante de Biotecnologia na Universidade Federal da Paraíba (UFPB).
-Tenho trabalhado e desenvolvido usando Python para aplicações biotecnológicas. 
+Tenho trabalhado e desenvolvido usando Python para aplicações biotecnológicas. E também entusiasta de Data Science, Machine Learning, Inovação e Desenvolvimento Mobile.
 Fique à vontade para olhar alguns dos meus trabalhos abaixo.
 
 About me:

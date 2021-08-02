@@ -11,7 +11,6 @@ Make sure to check some of my work below.
 <div>
 	<a href="http://https://github.com/joalissoncm">
 	<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joalissoncm&show_icons=true&theme=dracula&include_all_comits-true&count_private-true"/>
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joalissoncm&layout=compact&langs_count-168&theme=dracula"/>
 </div>
 
 ### My skills:

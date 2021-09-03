@@ -15,7 +15,7 @@ Make sure to check some of my work below.
 	
 ##
 <div>
-<a href="https://www.instagram.com/joalisson.study/" target="_blank"><img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/63914002/131933599-4b78e8c0-5f32-4d8f-9adc-b848c522bd1c.png" target="_blank"></a>
+<a href="www.instagram.com/joalisson.study/" target="_blank"><img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/63914002/131933599-4b78e8c0-5f32-4d8f-9adc-b848c522bd1c.png" target="_blank"></a>
 	
 	
 	

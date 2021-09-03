@@ -16,7 +16,6 @@ Make sure to check some of my work below.
 ##
 <div>
  <a href="https://www.instagram.com/joalisson.study" target="_blank"><img src="https://user-images.githubusercontent.com/63914002/131933876-60b996c8-2bca-4bb3-a2a5-29a954f6ad5f.png" target="_blank"></a>	
-
  <a href="joalisson.contato@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/63914002/131935656-072d5aff-c7af-482b-a9c7-750950f76029.png" target="_blank"></a>
 </div>
 	

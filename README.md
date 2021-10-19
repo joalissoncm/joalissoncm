@@ -18,9 +18,9 @@ Make sure to check some of my work below.
  <a href="https://www.instagram.com/joalisson.study" target="_blank"><img src="https://user-images.githubusercontent.com/63914002/131933876-60b996c8-2bca-4bb3-a2a5-29a954f6ad5f.png" target="_blank"></a>
  <a href="mailto:joalisson.contato@gmail.com"><img src="https://user-images.githubusercontent.com/63914002/131935656-072d5aff-c7af-482b-a9c7-750950f76029.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joalisson-da-costa-moreira-12119b220"><img src="https://user-images.githubusercontent.com/63914002/132699983-32897d84-5900-4d8e-aa70-0fbcfcf3a924.png" target="_blank"></a>
-</div>
-	
 
+<a href="https://medium.com/@joalissoncm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+</div>
 
   
 

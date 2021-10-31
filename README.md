@@ -19,7 +19,6 @@ Make sure to check some of my work below.
 <a href="mailto:joalisson.contato@gmail.com"><img src="https://user-images.githubusercontent.com/63914002/131935656-072d5aff-c7af-482b-a9c7-750950f76029.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joalisson-da-costa-moreira-12119b220"><img src="https://user-images.githubusercontent.com/63914002/132699983-32897d84-5900-4d8e-aa70-0fbcfcf3a924.png" target="_blank"></a>
 <a href="https://medium.com/@joalissoncm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</div>
 <a href="https://twitch.tv/joalissonmaster"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
   

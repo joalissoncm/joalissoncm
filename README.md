@@ -1,4 +1,4 @@
-### I'm Joalisson Moreira 👋
+### I'm Joalisson C. Moreira 👋
 
 
 About me:

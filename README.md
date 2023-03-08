@@ -2,7 +2,7 @@
 
 About me:
 
-:books: My name is Joalisson Moreira, I have been working with development
+:books: My name is Joalisson C. Moreira, I have been working with development
 and coding, with Python precisely searching for biotechnological applications in health. I'm an enthusiast of Data Science, Machine Learning, Bioinformatics and Innovation.
 
 Make sure to check some of my work below.
